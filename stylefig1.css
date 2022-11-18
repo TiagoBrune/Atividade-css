@@ -1,0 +1,76 @@
+body {
+background-color: rgb(116, 116, 104) ;
+}
+
+.nav{
+    color: rgb(116, 116, 104);
+    font-size: 20px;
+    word-spacing: 8px;
+    position: absolute;
+    left: 0px;
+    top: 100px; 
+    }
+.div1 {
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 620px;
+    height: 620px;
+    border: 122px solid blue;
+   
+}
+
+.div2 {
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 520px;
+    height: 520px;
+    border: 102px solid red;
+ }
+
+.div3 {
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 420px;
+    height: 420px;
+    border: 92px solid black;
+}
+ .div4 {
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 320px;
+    height: 320px;
+    border: 62px solid green;
+ }
+.div5 {
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 0px;
+    height: 0px;
+    border: 162px solid yellow;
+  
+}
+
+
+ 
+ 
+ 

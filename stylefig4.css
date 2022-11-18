@@ -1,0 +1,94 @@
+body {
+    background-color: grey;
+}
+.nav{
+    text-align: center;
+    word-spacing: 8px;
+    font-size: 20px;
+    
+}
+.quadrado1{
+    position: absolute;
+    left: 0px;
+    top: 0px; 
+    border: solid 80px black;
+    position: absolute;
+}
+.quadrado2 {
+    position: absolute;
+    left: 165px;
+    top: 0px; 
+    border: solid 80px black;
+    position: absolute;
+}
+.quadrado3 {
+    position: absolute;
+    left: 332px;
+    top: 0px; 
+    border: solid 80px black;
+    position: absolute;
+}
+.quadrado4 {
+    position: absolute;
+    left: 0px;
+    top: 165px; 
+    border: solid 80px black;
+    position: absolute;
+}
+.quadrado5 {
+    position: absolute;
+    left: 165px;
+    top: 165px; 
+    border: solid 80px black;
+    position: absolute;
+}
+
+.quadrado6 {
+    position: absolute;
+    left: 0px;
+    top: 332px; 
+    border: solid 80px black;
+    position: absolute;
+}
+.quadrado7 {
+    position: absolute;
+    right: 0px;
+    bottom: 332px; 
+    border: solid 80px black;
+    position: absolute;
+}
+ .quadrado8 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px; 
+    border: solid 80px black;
+    position: absolute;
+}
+ .quadrado9 {
+    position: absolute;
+    right: 165px;
+    bottom: 0px; 
+    border: solid 80px black;
+    position: absolute;
+}
+ .quadrado10 {
+    position: absolute;
+    right: 332px;
+    bottom: 0px; 
+    border: solid 80px black;
+    position: absolute;
+}
+ .quadrado11 {
+    position: absolute;
+    right: 0px;
+    bottom: 165px; 
+    border: solid 80px black;
+    position: absolute;
+}
+ .quadrado12 {
+    position: absolute;
+    right: 165px;
+    bottom: 165px; 
+    border: solid 80px black;
+    position: absolute;
+}

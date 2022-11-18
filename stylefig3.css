@@ -1,0 +1,33 @@
+body {
+    background-color: grey; }
+
+    .nav{
+        text-align: center;
+        word-spacing: 8px;
+        font-size: 20px;
+        
+ }
+
+    .div1{
+        display: flex;
+        text-align: right;
+        font-size: 25px;
+        background-color: black;
+        color: white;
+        border-radius: 10%;
+        border: 30px solid black
+    }
+    .div2 {
+        display: flex;
+        text-align: center;
+        font-size: 25px;
+        background-color: black;
+        color: white;
+        border-radius: 10%;
+        border: 30px solid black;
+        width: 1600px;
+        height: 400px;
+        border: 3px solid red;
+        overflow: auto;
+    
+    }

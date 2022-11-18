@@ -1,0 +1,33 @@
+body {
+    background-color: darkgrey; }
+    
+    .nav{
+       text-align: center;
+       word-spacing: 8px;
+       font-size: 20px;
+       
+}
+.um {
+    position: absolute;
+    left: 0px;
+    top: 0px; 
+    border: solid 110px black;
+}
+.dois {
+    position: absolute;
+    right: 0px;
+    top: 0px; 
+    border: solid 110px black;
+}
+.tres {
+    position: absolute;
+    left: 0px;
+    bottom: 0px; 
+    border: solid 110px black;
+}
+.quatro {
+    position: absolute;
+    right: 0px;
+    bottom: 0px; 
+    border: solid 110px black;
+}
